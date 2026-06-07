@@ -1,0 +1,4 @@
+python-dotnv
+openai
+langchain
+langchain_openai
